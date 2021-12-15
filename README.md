@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @uyen1407
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @nguyễn ngọc uyên
+- 👀 I’m interested in ... cc
+- 🌱 I’m currently learning ... cc
+- 💞️ I’m looking to collaborate on ... cc
+- 📫 How to reach me ... cc
 
 <!---
 uyen1407/uyen1407 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
